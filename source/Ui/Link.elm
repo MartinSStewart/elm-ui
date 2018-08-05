@@ -1,7 +1,7 @@
 module Ui.Link exposing (Model, view)
 
 {-| Non obtrusive link element:
-- Mouse middle click doesn't tigger the message
+- Mouse middle click doesn't trigger the message
 - Ctrl click doesn't trigger the message
 - Enter or Space triggers the message
 - Simple click triggers the message
